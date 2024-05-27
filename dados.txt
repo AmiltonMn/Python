@@ -1,0 +1,7 @@
+As notas do(a) aluno (a) André são: [7.0, 8.0, 5.0]. E a média dele(a) foi de 6.666666666666667
+O(a) aluno(a) André foi REPROVADO
+As notas do(a) aluno (a) José são: [10.0, 4.0, 8.0]. E a média dele(a) foi de 7.333333333333333
+O(a) aluno(a) José foi APROVADO
+As notas do(a) aluno (a) Pedro são: [9.0, 7.0, 5.0]. E a média dele(a) foi de 7.0
+O(a) aluno(a) Pedro foi APROVADO
+A maior média foi do aluno: José. Sua média foi de 7.0.

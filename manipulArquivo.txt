@@ -1,0 +1,21 @@
+No primeiro arquivo há 18 palavras diferentes.
+Sendo elas:
+criado
+de
+dia
+e
+em
+este
+exemplo
+foi
+hoje
+não
+porque
+que
+sem
+sol
+tem
+texto
+um
+é
+A palavra escolhida foi 'sol'. Ela apareceu 3 vezes no primeiro arquivo.
